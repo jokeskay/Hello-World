@@ -18,7 +18,8 @@
     "elephant.jpeg",
     "scope.jpeg",
     "pexels-photo-573299.jpeg",
-    "staringaway.png"
+    "staringaway.png",
+    "pexels-photo-417040.jpeg"
   ];
   
    function chooseOne(arr) {
