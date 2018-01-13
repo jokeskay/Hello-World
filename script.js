@@ -17,7 +17,7 @@
     "chain.jpg",
     "elephant.jpeg",
     "scope.jpeg"
-    "bright-lights.png"
+    "pexels-photo-573299.jpeg"
   ];
   
    function chooseOne(arr) {
