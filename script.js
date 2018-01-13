@@ -9,6 +9,7 @@
 	   "We're not socks. But I think we'd make a great pair. ",
 	   "Girl, you Make Curves Great Again. ",
 	   "So we're friends now, when do the benefits kick in? "
+	];
      
   var images = [
     "reddot.jpeg",
