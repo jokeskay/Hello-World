@@ -23,9 +23,6 @@
   var images = [
     "reddot.jpeg",
     "car.jpeg",
-    "chain.jpg",
-    "elephant.jpeg",
-    "scope.jpeg",
     "staringaway.png",
     "young-girl-rose-man-lady-46171.jpeg",
     "girl-about-red-blue-eyes-90757.jpeg",
