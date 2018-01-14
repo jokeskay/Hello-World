@@ -1,7 +1,7 @@
 (function(){
 
   var quotes = [
-     "Girl, your so hot my zipper is falling for you! (make her look)",
+           "Girl, your so hot my zipper is falling for you! (make her look)",
 	   "I grew up during the sixties, with the peace and love generation. If I can't get some love, I'd like to get a piece. ",
 	   "On my last date, we played strip poker. We stripped, and I poked her.",
 	   "I just got out of Leavenworth. Can I steal you a drink? How about a BMW? ",
@@ -11,9 +11,9 @@
 	   "So we're friends now, when do the benefits kick in? "
 	   "I think it is time I tell you what people are saying behind your back. Nice Ass! ",
 	   "I like Legos, you like Legos, why don't we build a relationship? ",
-	   "Are you the dub to my step? cause' I wub wub wub you"
-	   "90% of my game is corny pick up lines and the other 10 is awkward stares",
-	   "Are you from Japan? Cause I’m tryna get in Japanties.♡",
+	   "Are you the dub to my step? cause' I wub wub wub you."
+	   "90% of my game is corny pick up lines and the other 10 is awkward stares.",
+	   "Are you from Japan? Cause I’m tryna get in Japanties.",
 	   "You remind me of an overdue library book, cause you got Fine written all over you.",
 	   "What’s the difference between a Ferrari and an erection? I don’t have a Ferrari.",
 	   "On a scale of 1 to 10, you’re a 9. I’m the 1 you need",
