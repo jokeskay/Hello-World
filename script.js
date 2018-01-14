@@ -55,6 +55,8 @@
     "contrast_7-wallpaper-1600x900.jpg",
     "dessertpaint.jpeg",
     "yin_and_yang-wide.jpg",
+    "love_juice_2-wide.jpg",
+	  
  		 ];
   
    function chooseOne(arr) {
