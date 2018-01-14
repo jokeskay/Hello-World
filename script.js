@@ -25,6 +25,8 @@
     "pexels-photo-212410.jpeg",
     "young-girl-rose-man-lady-46171.jpeg",
     "girl-about-red-blue-eyes-90757.jpeg",
+    "avi-richards-374974.jpg",
+	  
 	  
 	  
 	  
