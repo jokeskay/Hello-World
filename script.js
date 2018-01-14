@@ -64,7 +64,7 @@
     "fallen_angel_4k-wide.jpg",
     "red_woman-HD.jpg",
     "valentine_girl_paint-HD.jpg",
-	  
+    "love_above_all-wallpaper-1680x1050.jpg"
 	  
 	  
 	  
