@@ -41,12 +41,10 @@
   var images = [
     "reddot.jpeg",
     "car.jpeg",
-    "staringaway.png",
     "young-girl-rose-man-lady-46171.jpeg",
     "girl-about-red-blue-eyes-90757.jpeg",
     "avi-richards-374974.jpg",
     "paradise.jpeg",
-    "darkwoods.jpeg",
     "redbikini.jpg",
     "pinkrose.jpg",
     "building-metropoli-urban.jpg",
