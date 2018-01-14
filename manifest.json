@@ -7,6 +7,12 @@
              "48": "icons/wing.png",
              "128": "icons/wing.png"
            },
+  "permissions": [
+    "geolocation",
+    "alarms",
+    "<all_urls>"
+    ],
+  
   "manifest_version": 2,
   "chrome_url_overrides": {
     "newtab": "index.html"
