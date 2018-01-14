@@ -88,7 +88,64 @@
 	  
 	  
  		 ];
-  
+// Geolocates the user, otherwise defaulting to Pittsburgh
+function geolocWeather() {
+	if('geolocation' in navigator) {
+		navigator.geolocation.getCurrentPosition(function(position) {
+			getWeather(position.coords.latitude + ',' + position.coords.longitude);
+		});
+	} else {
+		getWeather('40.4406, -79.9959');
+	}
+}
+// Gets weather for requested location, appends to page
+function getWeather(location) {
+	var API_key    = '3dc48ab835ed1b4369c089d0e742ff03';
+	var exclusions = 'flags,daily,minutely,alerts';
+	var darkSkyURL = 'https://api.darksky.net/forecast/' + API_key + '/' + location + '?exclude=' + exclusions;
+	var xmlhttp    = new XMLHttpRequest();
+
+	xmlhttp.open('GET', darkSkyURL, true);
+	xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4) {
+			if(xmlhttp.status == 200) {
+				var weather = JSON.parse(xmlhttp.responseText);
+
+				var weatherIcon = '';
+				if (weather.currently.icon == 'clear-day')
+					weatherIcon = 'sun';
+				else if (weather.currently.icon == 'clear-night')
+					weatherIcon = 'moon';
+				else if (weather.currently.icon == 'rain')
+					weatherIcon = 'rain';
+				else if (weather.currently.icon == 'snow')
+					weatherIcon = 'snow';
+				else if (weather.currently.icon == 'sleet')
+					weatherIcon = 'sleet';
+				else if (weather.currently.icon == 'wind')
+					weatherIcon = 'wind';
+				else if (weather.currently.icon == 'fog')
+					weatherIcon = 'fog';
+				else if (weather.currently.icon == 'cloudy')
+					weatherIcon = 'cloud';
+				else if (weather.currently.icon == 'partly-cloudy-day')
+					weatherIcon = 'cloud sun';
+				else if (weather.currently.icon == 'partly-cloudy-night')
+					weatherIcon = 'cloud moon';
+
+				if (weather.currently.icon == 'snow' || weather.currently.icon == 'sleet')
+					participate('snow');
+				else if (weather.currently.icon == 'rain')
+					participate('rain');
+
+				document.getElementById('weather').innerHTML = '<a id="weatherlink" href="https://darksky.net/forecast/' + location + '"><span class="climacon ' + weatherIcon + '"></span> ' + weather.currently.summary + ', ' + Math.round(weather.currently.temperature) + '&deg;</a>';
+				document.getElementById('details').innerHTML = weather.hourly.summary.replace(',', ',<br/>');
+			}
+		}
+	};
+	xmlhttp.send(null);
+}
+
    function chooseOne(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
   }
@@ -106,3 +163,56 @@
   };
 
 })();
+// Geolocates the user, otherwise defaulting to Pittsburgh
+function geolocWeather() {
+	if('geolocation' in navigator) {
+		navigator.geolocation.getCurrentPosition(function(position) {
+			getWeather(position.coords.latitude + ',' + position.coords.longitude);
+		});
+	} else {
+		getWeather('40.4406, -79.9959');
+	}
+}
+// Finds current time and date, formats it properly
+function startTime() {
+	var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+	var dayNames   = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+	var now  = new Date();
+	var time = [now.getHours(), now.getMinutes(), now.getSeconds()];
+	var date = [now.getDate(), now.getDay(), now.getMonth(), now.getFullYear()];
+	var hour = time[0];
+	var mins = time[1];
+	var secs = time[2];
+	var ampm = hour >= 12 ? 'PM' : 'AM';
+	var day  = date[0];
+	var weekday = dayNames[date[1]];
+	var month = monthNames[date[2]];
+	var year = date[3];
+	hour = hour % 12;
+	hour = hour ? hour : 12;
+	mins = mins < 10 ? '0' + mins : mins;
+	secs = secs < 10 ? '0' + secs : secs;
+	document.getElementById('time').innerHTML = hour + ':' + mins + ':' + secs + ' ' + ampm;
+	document.getElementById('date').innerHTML = weekday + ', ' + month + ' ' + day + ', ' + year;
+	var t = setTimeout(startTime, 500);
+}
+
+// Initializes everything on page load
+$(function() {
+	startTime();
+	geolocWeather();
+
+	// In development
+	// fetchBookmarks();
+	// getOptions();
+
+	// Binds click events for opening tabs and background click to close
+	$('li a.parent').click(function() {
+		$(this).parent('li').find('ul').slideToggle(150);
+		$(this).toggleClass('active');
+	});
+
+	// Binds click events to close cells and keyboard modal
+	document.getElementById('background').addEventListener('click', resetMousetraps, false);
+	document.getElementById('modal').addEventListener('click', closeModal, false);
+});
