@@ -96,7 +96,7 @@ return arr[Math.floor(Math.random() * arr.length)];
 
     document.getElementById('background-image').style.backgroundImage = 'url("img/'+ randomImage +'")';
     document.getElementById('quote').innerHTML = randomQuote;
-    document.getElementById('author').innerHTML = "&mdash; " +  'DJ Khaled' + " &mdash;";
+    document.getElementById('author').innerHTML = "&mdash; " +  'WingmanV1' + " &mdash;";
 
     document.getElementById('quote').className = 'move';
     document.getElementById('author').className = 'move';
