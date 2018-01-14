@@ -8,10 +8,10 @@
 	   "Are you a campfire? Cause you're hot and I want s'more.",
 	   "We're not socks. But I think we'd make a great pair. ",
 	   "Girl, you Make Curves Great Again. ",
-	   "So we're friends now, when do the benefits kick in? "
+	   "So we're friends now, when do the benefits kick in? ",
 	   "I think it is time I tell you what people are saying behind your back. Nice Ass! ",
 	   "I like Legos, you like Legos, why don't we build a relationship? ",
-	   "Are you the dub to my step? cause' I wub wub wub you."
+	   "Are you the dub to my step? cause' I wub wub wub you.",
 	   "90% of my game is corny pick up lines and the other 10 is awkward stares.",
 	   "Are you from Japan? Cause I’m tryna get in Japanties.",
 	   "You remind me of an overdue library book, cause you got Fine written all over you.",
