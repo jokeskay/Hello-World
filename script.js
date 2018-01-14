@@ -19,7 +19,9 @@
     "scope.jpeg",
     "pexels-photo-573299.jpeg",
     "staringaway.png",
-    "pexels-photo-417040.jpeg"
+    "pexels-photo-417040.jpeg",
+    "pexels-photo-247361.jpeg",
+	  
   ];
   
    function chooseOne(arr) {
