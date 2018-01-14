@@ -85,4 +85,21 @@
     "valentine_girl_paint-HD.jpg",
     "love_above_all-wallpaper-1680x1050.jpg"    
  		 ];
-});
+
+function chooseOne(arr) {
+return arr[Math.floor(Math.random() * arr.length)];
+  }
+
+  window.onload = function() {
+    var randomImage = chooseOne(images);
+    var randomQuote = chooseOne(quotes);
+
+    document.getElementById('background-image').style.backgroundImage = 'url("img/'+ randomImage +'")';
+    document.getElementById('quote').innerHTML = randomQuote;
+    document.getElementById('author').innerHTML = "&mdash; " +  'DJ Khaled' + " &mdash;";
+
+    document.getElementById('quote').className = 'move';
+    document.getElementById('author').className = 'move';
+  };
+
+})();
