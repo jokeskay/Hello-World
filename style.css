@@ -15,20 +15,6 @@ body {
   text-align: center;
 }
 
-.notepad {
-  font-family: var(--fontStack) !important;
-  display: block;
-  width: 100%;
-  height: calc(100vh - 6rem);
-  appearance: none;
-  font: inherit;
-  border: none;
-  outline: none;
-  color: inherit;
-  background: transparent;
-  resize: none;
-}
-
 #background-image {
   background: url("img/reddot.jpg") no-repeat center center fixed;
   background-size: cover;
