@@ -85,6 +85,19 @@
     "valentine_girl_paint-HD.jpg",
     "love_above_all-wallpaper-1680x1050.jpg"    
  		 ];
+	  // Set up the notepad
+  let n = document.querySelector('.notepad')
+  n.innerHTML = data["notepadContent"]
+
+  n.addEventListener('input', e => {
+    if(n !== document.activeElement || !windowIsActive) return
+
+    let obj = Object.assign(data, {
+      notepadContent: n.value
+    })
+
+    updateStore(key, obj)
+  })
 
 function chooseOne(arr) {
 return arr[Math.floor(Math.random() * arr.length)];
