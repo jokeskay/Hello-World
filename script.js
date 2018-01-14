@@ -31,7 +31,7 @@
     "darkwoods.jpeg",
     "redbikini.jpg",
     "pinkrose.jpg",
-    "amazing-animal-beautiful-beautifull.jpg"	  
+    "building-metropoli-urban.jpg",
  		 ];
   
    function chooseOne(arr) {
