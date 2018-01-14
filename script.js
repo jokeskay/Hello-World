@@ -22,6 +22,8 @@
     "pexels-photo-417040.jpeg",
     "pexels-photo-247361.jpeg",
     "pexels-photo-458555.jpeg",
+    "pexels-photo-212410.jpeg",
+	  
 	  
 	  
   ];
