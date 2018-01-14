@@ -18,7 +18,7 @@
 	   "What’s the difference between a Ferrari and an erection? I don’t have a Ferrari.",
 	   "On a scale of 1 to 10, you’re a 9. I’m the 1 you need",
 	   "Hi, did your license get suspended for driving all these guys crazy?"
-  ];
+               ];
      
   var images = [
     "reddot.jpeg",
@@ -40,7 +40,7 @@
     "redbikini.jpg",
     "pinkrose.jpg",
     "amazing-animal-beautiful-beautifull.jpg"	  
-  ];
+ 		 ];
   
    function chooseOne(arr) {
     return arr[Math.floor(Math.random() * arr.length)];
