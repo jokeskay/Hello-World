@@ -17,7 +17,28 @@
 	   "You remind me of an overdue library book, cause you got Fine written all over you.",
 	   "What’s the difference between a Ferrari and an erection? I don’t have a Ferrari.",
 	   "On a scale of 1 to 10, you’re a 9. I’m the 1 you need",
-	   "Hi, did your license get suspended for driving all these guys crazy?"
+	   "Hi, did your license get suspended for driving all these guys crazy?",
+	   "Do bandz, make you dance?",
+	   "On a scale of 1 to America, how free are you tonight?",
+	   "Hey there, whats up, what do I have to do to get on your drunk dial list?",
+	   "Hey how do you pronounce your digits",
+	   "Your killing me with that smile, instead of going to jail for murder you should just do time with me.",
+	   "Do you have a Bandaid? Cos I just scraped my knee falling for you.",
+	   "Do you have a map? Cos Honey, I just keep gettin lost in your eyes.",
+	   "You're eyes are bluer than the Atlantic ocean and baby, I'm all lost at sea.",
+	   "Hello. Cupid called. He says to tell you that he needs my heart back.",
+	   "Do you have a pencil? Cause I want to erase your past and write our future.",
+	   "How was Heaven when you left it? You are so beautiful that you give the sun a reason to shine.",
+	   "The only thing your eyes haven't told me is your name.",
+	   "Honey, you give new meaning to the defintion of 'edible'.",
+	   "I think I can die happy now, coz I've just seen a piece of heaven.",
+	   "You must be a magician, because every time I look at you, everyone else disappears.", 
+	   "My mom told me that life is like a deck of cards, so you must the be queen of hearts.",
+	   "I'm no organ donor, but I'd be happy to give you my heart.",
+	   "When I first saw you I looked for a signature, because every masterpiece has one.", 
+	   "Excuse me...Hi, I'm writing an essay on the finer things in life, and I was wondering if I could interview you.",
+	   "Has anyone ever told you that your eyes are clear like the ocean? Because I can see straight into your soul.",
+	   "If I had a rose for every time I thought of you, I would be walking through my garden forever."
                ];
      
   var images = [
@@ -37,8 +58,7 @@
     "kate_upton_summertime-wallpaper-1600x900.jpg",
     "japanese_woman-wallpaper-1440x900.jpg",
     "contrast_7-wallpaper-1600x900.jpg",
-    "dessertpaint.jpeg"
-	  
+    "dessertpaint.jpeg"  
  		 ];
   
    function chooseOne(arr) {
