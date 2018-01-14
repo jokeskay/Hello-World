@@ -39,13 +39,7 @@
     "darkwoods.jpeg",
     "redbikini.jpg",
     "pinkrose.jpg",
-    "amazing-animal-beautiful-beautifull.jpg"
-	  
-    
-	  
-	  
-	  
-	  
+    "amazing-animal-beautiful-beautifull.jpg"	  
   ];
   
    function chooseOne(arr) {
@@ -65,5 +59,3 @@
   };
 
 })();
-
-    
