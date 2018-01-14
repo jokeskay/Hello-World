@@ -35,7 +35,8 @@
 	   "When I first saw you I looked for a signature, because every masterpiece has one.", 
 	   "Excuse me...Hi, I'm writing an essay on the finer things in life, and I was wondering if I could interview you.",
 	   "Has anyone ever told you that your eyes are clear like the ocean? Because I can see straight into your soul.",
-	   "If I had a rose for every time I thought of you, I would be walking through my garden forever."
+	   "If I had a rose for every time I thought of you, I would be walking through my garden forever.",
+	   "The best thing about ME is YOU"
                ];
      
   var images = [
@@ -57,6 +58,7 @@
     "yin_and_yang-wide.jpg",
     "love_juice_2-wide.jpg",
     "dare_to_love-normal.jpg",
+    "best_thing_about_me_is_you-normal5.4.jpg",
 	  
 	  
  		 ];
