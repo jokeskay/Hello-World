@@ -29,6 +29,7 @@
     "paradise.jpeg",
     "darkwoods.jpeg",
     "redbikini.jpg",
+    "pinkrose.jpg",
 	  
     
 	  
