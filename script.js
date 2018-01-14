@@ -61,6 +61,8 @@
     "best_thing_about_me_is_you-normal5.4.jpg",
     "heart_fly-normal.jpg",
     "dark_woman_4k-wide.jpg",
+    "fallen_angel_4k-wide.jpg",
+	  
 	  
 	  
 	  
