@@ -32,6 +32,9 @@
     "redbikini.jpg",
     "pinkrose.jpg",
     "building-metropoli-urban.jpg",
+    "urban_night_5-wallpaper-1152x720.jpg",
+    "summertime_3-wallpaper-1920x1080.jpg",
+    "
  		 ];
   
    function chooseOne(arr) {
