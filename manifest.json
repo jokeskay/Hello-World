@@ -7,7 +7,15 @@
              "48": "icons/wing.png",
              "128": "icons/wing.png"
            },
-  "permissions": ["geolocation","storage"],
+  "permissions": [
+    "geolocation", 
+    "tabs",
+    "<all_urls>", 
+    "http://www.google.com/",
+    "https://query.yahooapis.com/",
+    "https://clients1.google.com/",
+    "http://clients1.google.com/"  
+                  ],
   "manifest_version": 2,
   "chrome_url_overrides": {
     "newtab": "index.html"
