@@ -36,6 +36,8 @@
     "summertime_3-wallpaper-1920x1080.jpg",
     "kate_upton_summertime-wallpaper-1600x900.jpg",
     "japanese_woman-wallpaper-1440x900.jpg",
+    "contrast_7-wallpaper-1600x900.jpg",
+	  
 	  
  		 ];
   
