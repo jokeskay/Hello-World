@@ -56,6 +56,8 @@
     "dessertpaint.jpeg",
     "yin_and_yang-wide.jpg",
     "love_juice_2-wide.jpg",
+    "dare_to_love-normal.jpg",
+	  
 	  
  		 ];
   
