@@ -69,7 +69,6 @@
     "yin_and_yang-wide.jpg",
     "she_had_to_hide_her_love_away-wallpaper-1680x1050.jpg",
     "love_juice_2-wide.jpg",
-    "dare_to_love-normal.jpg",
     "best_thing_about_me_is_you-normal5.4.jpg",
     "heart_fly-normal.jpg",
     "as_in_fairy_tales-wallpaper-1680x1050.jpg",
