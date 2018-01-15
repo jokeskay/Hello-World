@@ -100,7 +100,6 @@
   var images = [
     "reddot.jpeg",
     "girl-about-red-blue-eyes-90757.jpeg",    
-    "paradise.jpeg",
     "walking_alone-wallpaper-1680x1050.jpg",
     "pinkrose.jpg",
     "ng-60686.jpg",
