@@ -57,8 +57,6 @@
     "avi-richards-374974.jpg",
     "paradise.jpeg",
     "pinkrose.jpg",
-    "building-metropoli-urban.jpg",
-    "urban_night_5-wallpaper-1152x720.jpg",
     "summertime_3-wallpaper-1920x1080.jpg",
     "japanese_woman-wallpaper-1440x900.jpg",
     "contrast_7-wallpaper-1600x900.jpg",
