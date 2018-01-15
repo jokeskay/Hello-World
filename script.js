@@ -76,6 +76,7 @@
     "andrik-langfield-petrides-270368.jpg",
     "jeremy-bishop-206785.jpg",
     "pexels-photo-204959.jpeg",
+    "bart-larue-314562.jpg",
     "romantic-flower-couple-art.jpg",
     "jamie-street-207822.jpg",
     "couple-night-sky-romantic.jpg", 
