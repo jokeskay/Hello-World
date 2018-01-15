@@ -66,6 +66,7 @@
     "pinkrose.jpg",
     "summertime_3-wallpaper-1920x1080.jpg",
     "japanese_woman-wallpaper-1440x900.jpg",
+    "ng-60686.jpg",
     "pexels-photo-729005.jpeg",
     "she_had_to_hide_her_love_away-wallpaper-1680x1050.jpg",
     "best_thing_about_me_is_you-normal5.4.jpg",
