@@ -75,6 +75,7 @@
     "love_bridge-wallpaper-1280x720.jpg",
     "heart_sand_beach_summer_love-wallpaper-1680x1050.jpg",
     "valentine_girl_paint-HD.jpg",
+    "the_light_at_the_end_of_the_tree_tunnel-wallpaper-1920x1080.jpg",
     "love_above_all-wallpaper-1680x1050.jpg"    
  		 ];
 function chooseOne(arr) {
