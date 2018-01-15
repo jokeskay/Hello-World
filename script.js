@@ -75,6 +75,7 @@
     "dark_woman_4k-wide.jpg",
     "pexels-photo-204959.jpeg",
     "romantic-flower-couple-art.jpg",
+    "jamie-street-207822.jpg",
     "couple-night-sky-romantic.jpg", 
     "fallen_angel_4k-wide.jpg",
     "love_bridge-wallpaper-1280x720.jpg",
