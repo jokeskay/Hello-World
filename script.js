@@ -68,6 +68,7 @@
     "japanese_woman-wallpaper-1440x900.jpg",
     "she_had_to_hide_her_love_away-wallpaper-1680x1050.jpg",
     "best_thing_about_me_is_you-normal5.4.jpg",
+    "rose-blue-flower-rose-blooms-67636.jpeg",
     "couple-run-cloud-reflection-art.jpg",
     "as_in_fairy_tales-wallpaper-1680x1050.jpg",
     "dark_woman_4k-wide.jpg",
