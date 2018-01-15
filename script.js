@@ -67,6 +67,7 @@
     "dare_to_love-normal.jpg",
     "best_thing_about_me_is_you-normal5.4.jpg",
     "heart_fly-normal.jpg",
+    "colourful.jpeg",
     "dark_woman_4k-wide.jpg",
     "fallen_angel_4k-wide.jpg",
     "red_woman-HD.jpg",
