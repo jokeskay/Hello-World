@@ -71,6 +71,7 @@
     "couple-run-cloud-reflection-art.jpg",
     "as_in_fairy_tales-wallpaper-1680x1050.jpg",
     "dark_woman_4k-wide.jpg",
+    "pexels-photo-204959.jpeg",
     "romantic-flower-couple-art.jpg",
     "couple-night-sky-romantic.jpg", 
     "fallen_angel_4k-wide.jpg",
