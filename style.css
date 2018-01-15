@@ -15,17 +15,9 @@ body {
   text-align: center;
 }
 
-.module {
  #background-image {
   background: url("img/reddot.jpg") no-repeat center center fixed;
   background-size: cover;
-}
-}
-
-.top h2 {
-  color: white;
-  margin: 0;
-  padding: 20px;
 }
 
 .overlay {
