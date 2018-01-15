@@ -71,7 +71,6 @@
     "as_in_fairy_tales-wallpaper-1680x1050.jpg",
     "dark_woman_4k-wide.jpg",
     "fallen_angel_4k-wide.jpg",
-    "red_woman-HD.jpg",
     "love_bridge-wallpaper-1280x720.jpg",
     "heart_sand_beach_summer_love-wallpaper-1680x1050.jpg",
     "valentine_girl_paint-HD.jpg",
