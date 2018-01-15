@@ -82,6 +82,7 @@
     "jamie-street-207822.jpg",
     "couple-night-sky-romantic.jpg", 
     "fallen_angel_4k-wide.jpg",
+    "cesar-couto-420988.jpg",
     "love_bridge-wallpaper-1280x720.jpg",
     "heart_sand_beach_summer_love-wallpaper-1680x1050.jpg",
     "valentine_girl_paint-HD.jpg",
