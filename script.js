@@ -66,7 +66,6 @@
     "pinkrose.jpg",
     "summertime_3-wallpaper-1920x1080.jpg",
     "japanese_woman-wallpaper-1440x900.jpg",
-    "contrast_7-wallpaper-1600x900.jpg",
     "yin_and_yang-wide.jpg",
     "she_had_to_hide_her_love_away-wallpaper-1680x1050.jpg",
     "love_juice_2-wide.jpg",
