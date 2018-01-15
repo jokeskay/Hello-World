@@ -73,7 +73,6 @@
     "dare_to_love-normal.jpg",
     "best_thing_about_me_is_you-normal5.4.jpg",
     "heart_fly-normal.jpg",
-    "colourful.jpeg",
     "as_in_fairy_tales-wallpaper-1680x1050.jpg",
     "dark_woman_4k-wide.jpg",
     "fallen_angel_4k-wide.jpg",
