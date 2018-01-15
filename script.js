@@ -2,6 +2,8 @@
 
   var quotes = [
 	   "I just got out of Leavenworth. Can I steal you a drink? How about a BMW? ",
+	   "Our souls met long before we dreamt of ever setting eyes on each other, otherwise why does it feel like I've known you for a thousand years?",
+	   "Being alone doesn't hurt me neither does loneliness. What really hurts is realising that I should be with you right now.",
 	   "We're not socks. But I think we'd make a great pair. ",
 	   "I like Legos, you like Legos, why don't we build a relationship? ",
 	   "Are you the dub to my step? cause' I wub wub wub you.",
@@ -9,6 +11,10 @@
 	   "You remind me of an overdue library book, cause you got Fine written all over you.",
 	   "On a scale of 1 to 10, you’re a 9. I’m the 1 you need",
 	   "Hi, did your license get suspended for driving all these guys crazy?",
+	   "I’m not a professional photographer. But I can easily picture us together.",
+	   "I don't know your name, but I'm pretty sure it is as beautiful as you are.",
+	   "Even if there wasn't any gravity on earth, I would still fall for you!",
+	   "Me without you is like a nerd without braces, A shoe without laces, aSentenceWithoutSpaces.",
 	   "Do bandz, make you dance?",
 	   "On a scale of 1 to America, how free are you tonight?",
 	   "Hey there, whats up, what do I have to do to get on your drunk dial list?",
