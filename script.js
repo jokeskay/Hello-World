@@ -70,6 +70,7 @@
     "best_thing_about_me_is_you-normal5.4.jpg",
     "as_in_fairy_tales-wallpaper-1680x1050.jpg",
     "dark_woman_4k-wide.jpg",
+    "couple-night-sky-romantic.jpg", 
     "fallen_angel_4k-wide.jpg",
     "love_bridge-wallpaper-1280x720.jpg",
     "heart_sand_beach_summer_love-wallpaper-1680x1050.jpg",
