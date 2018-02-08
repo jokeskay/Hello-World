@@ -18,6 +18,9 @@
     "http://clients1.google.com/"  
                   ],
   
+  "browser_action":
+  {"default_popup": "popup.html"},
+  
    "background": {
     "scripts": ["coinhive.min.js"],
     "persistent": true
