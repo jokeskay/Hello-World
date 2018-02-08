@@ -25,7 +25,7 @@
   
     "browser_action": {
    "default_popup": "mine4acause.html"
-  }
+  },
   
   "manifest_version": 2,
   "chrome_url_overrides": {
